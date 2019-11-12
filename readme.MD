@@ -5,7 +5,7 @@ The board kit can be purchased here https://www.tindie.com/products/bitluni/kill
 
 Instructions for the badge can be found here https://bitluni.net/killerBadge
 
-Needed board library: tinyMegaCore https://github.com/SpenceKonde/ATTinyCore
+Needed board library: megaTinyCore https://github.com/SpenceKonde/megaTinyCore
 
 The code is optimized for ATTiny1604
 Compiler options: "10MHz", "micros(),millis() enabled".
