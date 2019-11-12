@@ -1,6 +1,6 @@
 //bitluni 2019
 //killer badge 1.0 https://bitluni.net/killerBadge
-//Needed board library tinyMegaCore https://github.com/SpenceKonde/ATTinyCore
+//Needed board library megaTinyCore https://github.com/SpenceKonde/megaTinyCore
 //Optimized for ATTiny1604
 //compiler options "10MHz", "micros(),millis() enabled".
 //license CC BY-SA 4.0
